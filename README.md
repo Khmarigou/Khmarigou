@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Luca, *AKA Khmarigou*, a french computer science student at Université Savoie Mont Blanc. Passionate about development, I specialize in Python but also have strong skills in Java, C, PHP, and React. Always looking for new challenges and learning opportunities.
 
 <!--
 **Khmarigou/Khmarigou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
